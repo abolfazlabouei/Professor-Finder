@@ -1,0 +1,2044 @@
+[{
+  "_id": {
+    "$oid": "616452a80c037fa345dc4c0e"
+  },
+  "Name": "محمود برهانی",
+  "eMail": "mborhani [at] yazd.ac.ir",
+  "AOE": "بخش اتمی مولکولی",
+  "Department": "دانشکده فیزیک",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452a90c037fa345dc4c0f"
+  },
+  "Name": "محمدآقا بلوری‌زاده",
+  "eMail": "bolourizade [at] yazd.ac.ir",
+  "AOE": null,
+  "Department": "دانشکده فیزیک",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452a90c037fa345dc4c10"
+  },
+  "Name": "عباس بهجت",
+  "eMail": "abehjat [at] yazd.ac.ir",
+  "AOE": "بخش اتمی مولکولی",
+  "Department": "دانشکده فیزیک",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452a90c037fa345dc4c11"
+  },
+  "Name": "محمدکاظم توسلی",
+  "eMail": "mktavassoly [at] yazd.ac.ir",
+  "AOE": "بخش اتمی مولکولی",
+  "Department": "دانشکده فیزیک",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452a90c037fa345dc4c12"
+  },
+  "Name": "سید محمد موسوی‌نژاد",
+  "eMail": "mmoosavi [at] yazd.ac.ir",
+  "AOE": "بخش ذرات بنیادی",
+  "Department": "دانشکده فیزیک",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452a90c037fa345dc4c13"
+  },
+  "Name": "ابوالفضل میرجلیلی",
+  "eMail": "a.mirjalili [at] yazd.ac.ir",
+  "AOE": "بخش ذرات بنیادی",
+  "Department": "دانشکده فیزیک",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452a90c037fa345dc4c14"
+  },
+  "Name": "محمد اسلامی کلانتری",
+  "eMail": "meslami [at] yazd.ac.ir",
+  "AOE": "بخش هسته‌ای",
+  "Department": "دانشکده فیزیک",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452a90c037fa345dc4c15"
+  },
+  "Name": "غضنفر امیرجلیلی",
+  "eMail": "gmirjalili [at] yazd.ac.ir",
+  "AOE": null,
+  "Department": "دانشکده فیزیک",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452a90c037fa345dc4c16"
+  },
+  "Name": "سعید پاک‌طینت مهدی‌آبادی",
+  "eMail": "spaktinat [at] yazd.ac.ir",
+  "AOE": "بخش ذرات بنیادی",
+  "Department": "دانشکده فیزیک",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452a90c037fa345dc4c17"
+  },
+  "Name": "محسن خواجه امینیان",
+  "eMail": "kh.aminian [at] yazd.ac.ir",
+  "AOE": "بخش حالت جامد",
+  "Department": "دانشکده فیزیک",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452a90c037fa345dc4c18"
+  },
+  "Name": "مهدی شریفیان",
+  "eMail": "mehdi.sharifian [at] yazd.ac.ir",
+  "AOE": "بخش اتمی مولکولی",
+  "Department": "دانشکده فیزیک",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452a90c037fa345dc4c19"
+  },
+  "Name": "محمد‌علی صادق‌زاده",
+  "eMail": "msadeghzadeh [at] yazd.ac.ir",
+  "AOE": "بخش حالت جامد",
+  "Department": "دانشکده فیزیک",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452a90c037fa345dc4c1a"
+  },
+  "Name": "سید محمدعلی صالحی",
+  "eMail": "sma.salehi [at] yazd.ac.ir",
+  "AOE": null,
+  "Department": "دانشکده فیزیک",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452a90c037fa345dc4c1b"
+  },
+  "Name": "لیلا غلام‌زاده",
+  "eMail": "gholamzadeh [at] yazd.ac.ir",
+  "AOE": "بخش هسته‌ای",
+  "Department": "دانشکده فیزیک",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452a90c037fa345dc4c1c"
+  },
+  "Name": "حسین مختاری",
+  "eMail": "phmh.mokhtari [at] yazd.ac.ir",
+  "AOE": "بخش حالت جامد",
+  "Department": "دانشکده فیزیک",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452a90c037fa345dc4c1d"
+  },
+  "Name": "مریم مستاجران",
+  "eMail": "mostajeran [at] yazd.ac.ir",
+  "AOE": "بخش ذرات بنیادی",
+  "Department": "دانشکده فیزیک",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452a90c037fa345dc4c1e"
+  },
+  "Name": "محمد‌حسین معماریان",
+  "eMail": "memarian [at] yazd.ac.ir",
+  "AOE": "بخش اتمی مولکولی",
+  "Department": "دانشکده فیزیک",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452a90c037fa345dc4c1f"
+  },
+  "Name": "فاطمه استواری",
+  "eMail": "ostovari [at] yazd.ac.ir",
+  "AOE": "بخش حالت جامد",
+  "Department": "دانشکده فیزیک",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452a90c037fa345dc4c20"
+  },
+  "Name": "محمد اعتصامی",
+  "eMail": "eetesami [at] yazd.ac.ir",
+  "AOE": "بخش حالت جامد",
+  "Department": "دانشکده فیزیک",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452a90c037fa345dc4c21"
+  },
+  "Name": "منصوره تاتاری",
+  "eMail": "mtatari [at] yazd.ac.ir",
+  "AOE": "بخش هسته‌ای",
+  "Department": "دانشکده فیزیک",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452a90c037fa345dc4c22"
+  },
+  "Name": "محمد جغتایی",
+  "eMail": "mjoghataei [at] yazd.ac.ir",
+  "AOE": "بخش اتمی مولکولی",
+  "Department": "دانشکده فیزیک",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452a90c037fa345dc4c23"
+  },
+  "Name": "محمدعلی حداد",
+  "eMail": "mahaddad [at] yazd.ac.ir",
+  "AOE": "بخش اتمی مولکولی",
+  "Department": "دانشکده فیزیک",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452a90c037fa345dc4c24"
+  },
+  "Name": "محسن حکیمی",
+  "eMail": "hakimi.m [at] yazd.ac.ir",
+  "AOE": "بخش حالت جامد",
+  "Department": "دانشکده فیزیک",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452a90c037fa345dc4c25"
+  },
+  "Name": "زهرا رضایی",
+  "eMail": "zahra.rezaei [at] yazd.ac.ir",
+  "AOE": "بخش ذرات بنیادی",
+  "Department": "دانشکده فیزیک",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452a90c037fa345dc4c26"
+  },
+  "Name": "حکیمه زارع",
+  "eMail": "hzare [at] yazd.ac.ir",
+  "AOE": "بخش حالت جامد",
+  "Department": "دانشکده فیزیک",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452ab0c037fa345dc4c27"
+  },
+  "Name": "محمد‌علی شفایی",
+  "eMail": "mashafaei [at] yazd.ac.ir",
+  "AOE": "بخش هسته‌ای",
+  "Department": "دانشکده فیزیک",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452ab0c037fa345dc4c28"
+  },
+  "Name": "هادی لوک‌زاده",
+  "eMail": "h.lookzadeh [at] yazd.ac.ir",
+  "AOE": "بخش ذرات بنیادی",
+  "Department": "دانشکده فیزیک",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452ab0c037fa345dc4c29"
+  },
+  "Name": "حمید مطهری",
+  "eMail": "h.motahari [at] yazd.ac.ir",
+  "AOE": "بخش اتمی مولکولی",
+  "Department": "دانشکده فیزیک",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452ab0c037fa345dc4c2a"
+  },
+  "Name": "سید مجید میررکنی",
+  "eMail": "mirrokni [at] yazd.ac.ir",
+  "AOE": "بخش اتمی مولکولی",
+  "Department": "دانشکده فیزیک",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452ad0c037fa345dc4c2b"
+  },
+  "Name": "حمیدرضا رونق",
+  "eMail": "ronagh [at] yazd.ac.ir",
+  "AOE": null,
+  "Department": "دانشکده مهندسی عمران",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452ad0c037fa345dc4c2c"
+  },
+  "Name": "بهروز احمدی ندوشن",
+  "eMail": "behrooz.ahmadi [at] yazd.ac.ir",
+  "AOE": "بخش سازه",
+  "Department": "دانشکده مهندسی عمران",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452ad0c037fa345dc4c2d"
+  },
+  "Name": "نصرت‌الله امانیان",
+  "eMail": "namanian [at] yazd.ac.ir",
+  "AOE": "بخش آب",
+  "Department": "دانشکده مهندسی عمران",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452ad0c037fa345dc4c2e"
+  },
+  "Name": "کاظم برخورداری بافقی",
+  "eMail": "kbarkhordari [at] yazd.ac.ir",
+  "AOE": "بخش ژئوتکنیک و راه",
+  "Department": "دانشکده مهندسی عمران",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452ad0c037fa345dc4c2f"
+  },
+  "Name": "رضا پورحسینی",
+  "eMail": "r_porhoseini [at] yazd.ac.ir",
+  "AOE": "بخش ژئوتکنیک و راه",
+  "Department": "دانشکده مهندسی عمران",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452ad0c037fa345dc4c30"
+  },
+  "Name": "حامد خانی سانیج",
+  "eMail": "khani [at] yazd.ac.ir",
+  "AOE": "بخش ژئوتکنیک و راه",
+  "Department": "دانشکده مهندسی عمران",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452ad0c037fa345dc4c31"
+  },
+  "Name": "محمدمهدی خبیری",
+  "eMail": "mkhabiri [at] yazd.ac.ir",
+  "AOE": "بخش ژئوتکنیک و راه",
+  "Department": "دانشکده مهندسی عمران",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452ad0c037fa345dc4c32"
+  },
+  "Name": "مهدی فلاح تفتی",
+  "eMail": "fallah.tafti [at] yazd.ac.ir",
+  "AOE": "بخش ژئوتکنیک و راه",
+  "Department": "دانشکده مهندسی عمران",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452ad0c037fa345dc4c33"
+  },
+  "Name": "محمدرضا گودرزی",
+  "eMail": "goodarzimr [at] yazd.ac.ir",
+  "AOE": "بخش آب",
+  "Department": "دانشکده مهندسی عمران",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452ad0c037fa345dc4c34"
+  },
+  "Name": "رضا مرشد",
+  "eMail": "morshed [at] yazd.ac.ir",
+  "AOE": "بخش سازه",
+  "Department": "دانشکده مهندسی عمران",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452ad0c037fa345dc4c35"
+  },
+  "Name": "حمید مهرنهاد",
+  "eMail": "hmehrnahad [at] yazd.ac.ir",
+  "AOE": "بخش ژئوتکنیک و راه",
+  "Department": "دانشکده مهندسی عمران",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452ad0c037fa345dc4c36"
+  },
+  "Name": "محمدحسین اخوان سیگاری یزد",
+  "eMail": "m.akhavan [at] yazd.ac.ir",
+  "AOE": "بخش سازه",
+  "Department": "دانشکده مهندسی عمران",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452ad0c037fa345dc4c37"
+  },
+  "Name": "آزیتا اسعدی",
+  "eMail": "aasadi [at] yazd.ac.ir",
+  "AOE": "بخش سازه",
+  "Department": "دانشکده مهندسی عمران",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452ad0c037fa345dc4c38"
+  },
+  "Name": "ابوالفضل اسلامی حسن‌آبادی",
+  "eMail": "a.eslami [at] yazd.ac.ir",
+  "AOE": "بخش سازه",
+  "Department": "دانشکده مهندسی عمران",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452ad0c037fa345dc4c39"
+  },
+  "Name": "سید علی‌اکبر بهنیافر",
+  "eMail": "behniafar [at] yazd.ac.ir",
+  "AOE": null,
+  "Department": "دانشکده مهندسی عمران",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452ad0c037fa345dc4c3a"
+  },
+  "Name": "هادی پوردارا",
+  "eMail": "h_pourdara [at] yazd.ac.ir",
+  "AOE": "بخش آب",
+  "Department": "دانشکده مهندسی عمران",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452ad0c037fa345dc4c3b"
+  },
+  "Name": "حامد تجملیان",
+  "eMail": "h.tajammolian [at] yazd.ac.ir",
+  "AOE": "بخش سازه",
+  "Department": "دانشکده مهندسی عمران",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452ad0c037fa345dc4c3c"
+  },
+  "Name": "محمد حاذقیان",
+  "eMail": "m.hazeghian [at] yazd.ac.ir",
+  "AOE": "بخش ژئوتکنیک و راه",
+  "Department": "دانشکده مهندسی عمران",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452ad0c037fa345dc4c3d"
+  },
+  "Name": "مهدی خداداد سریزدی",
+  "eMail": "mkhodadad [at] yazd.ac.ir",
+  "AOE": "بخش سازه",
+  "Department": "دانشکده مهندسی عمران",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452ad0c037fa345dc4c3e"
+  },
+  "Name": "حسینعلی رحیمی بندرآبادی",
+  "eMail": "h_rahimi [at] yazd.ac.ir",
+  "AOE": "بخش سازه",
+  "Department": "دانشکده مهندسی عمران",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452ad0c037fa345dc4c3f"
+  },
+  "Name": "مسعود زینی",
+  "eMail": "mzeini [at] yazd.ac.ir",
+  "AOE": null,
+  "Department": "دانشکده مهندسی عمران",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452ad0c037fa345dc4c40"
+  },
+  "Name": "محمدعلی سعیدی",
+  "eMail": "saeedi_ma [at] yazd.ac.ir",
+  "AOE": null,
+  "Department": "دانشکده مهندسی عمران",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452ad0c037fa345dc4c41"
+  },
+  "Name": "نادر عبدلی",
+  "eMail": "nader-abdoli [at] yazd.ac.ir",
+  "AOE": null,
+  "Department": "دانشکده مهندسی عمران",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452ad0c037fa345dc4c42"
+  },
+  "Name": "حامد عزیزی بندرآبادی",
+  "eMail": "hamed.azizi [at] yazd.ac.ir",
+  "AOE": "بخش سازه",
+  "Department": "دانشکده مهندسی عمران",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452ad0c037fa345dc4c43"
+  },
+  "Name": "محمد فروغی",
+  "eMail": "m_foroughi [at] yazd.ac.ir",
+  "AOE": null,
+  "Department": "دانشکده مهندسی عمران",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452b00c037fa345dc4c44"
+  },
+  "Name": "مریم مختاری",
+  "eMail": "mokhtari [at] yazd.ac.ir",
+  "AOE": "بخش ژئوتکنیک و راه",
+  "Department": "دانشکده مهندسی عمران",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452b00c037fa345dc4c45"
+  },
+  "Name": "محمدرضا میرجلیلی",
+  "eMail": "mirjalili [at] yazd.ac.ir",
+  "AOE": "بخش سازه",
+  "Department": "دانشکده مهندسی عمران",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452b00c037fa345dc4c46"
+  },
+  "Name": "محمد‌رضا هادیان",
+  "eMail": "mr_hadian [at] yazd.ac.ir",
+  "AOE": "بخش آب",
+  "Department": "دانشکده مهندسی عمران",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452b00c037fa345dc4c47"
+  },
+  "Name": "مرتضی احمدیه یزدی",
+  "eMail": "mahmadiyeh [at] yazd.ac.ir",
+  "AOE": "بخش سازه",
+  "Department": "دانشکده مهندسی عمران",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452b00c037fa345dc4c48"
+  },
+  "Name": "محمد حسینی",
+  "eMail": "mhos [at] yazd.ac.ir",
+  "AOE": "بخش ژئوتکنیک و راه",
+  "Department": "دانشکده مهندسی عمران",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452b00c037fa345dc4c49"
+  },
+  "Name": "مهدی شفیع‌زاده",
+  "eMail": "mehdi.shafizadeh [at] yazd.ac.ir",
+  "AOE": "بخش سازه",
+  "Department": "دانشکده مهندسی عمران",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452b00c037fa345dc4c4a"
+  },
+  "Name": "محمدرضا عطائی یزد",
+  "eMail": "m_attaee [at] yazd.ac.ir",
+  "AOE": null,
+  "Department": "دانشکده مهندسی عمران",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452b00c037fa345dc4c4b"
+  },
+  "Name": "رضا مهراد کیان",
+  "eMail": "gdehghanm [at] yazd.ac.ir",
+  "AOE": null,
+  "Department": "دانشکده مهندسی عمران",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452b20c037fa345dc4c4c"
+  },
+  "Name": "محمد‌علی امر‌اللهی",
+  "eMail": "mamrollahi [at] yazd.ac.ir",
+  "AOE": "بخش شیمی آلی",
+  "Department": "دانشکده شیمی",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452b20c037fa345dc4c4d"
+  },
+  "Name": "علی بنویدی",
+  "eMail": "abenvidi [at] yazd.ac.ir",
+  "AOE": "بخش شیمی تجزیه",
+  "Department": "دانشکده شیمی",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452b20c037fa345dc4c4e"
+  },
+  "Name": "فاطمه تمدن",
+  "eMail": "ftamaddon [at] yazd.ac.ir",
+  "AOE": "بخش شیمی آلی",
+  "Department": "دانشکده شیمی",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452b20c037fa345dc4c4f"
+  },
+  "Name": "عباسعلی جعفری",
+  "eMail": "jafari [at] yazd.ac.ir",
+  "AOE": "بخش شیمی آلی",
+  "Department": "دانشکده شیمی",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452b20c037fa345dc4c50"
+  },
+  "Name": "علیمحمد حاجی شعبانی یزدی",
+  "eMail": "hshabani [at] yazd.ac.ir",
+  "AOE": "بخش شیمی تجزیه",
+  "Department": "دانشکده شیمی",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452b20c037fa345dc4c51"
+  },
+  "Name": "شایسته دادفر‌نیا",
+  "eMail": "sdadfarnia [at] yazd.ac.ir",
+  "AOE": "بخش شیمی تجزیه",
+  "Department": "دانشکده شیمی",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452b20c037fa345dc4c52"
+  },
+  "Name": "حمید‌رضا زارع",
+  "eMail": "hrzare [at] yazd.ac.ir",
+  "AOE": "بخش شیمی تجزیه",
+  "Department": "دانشکده شیمی",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452b20c037fa345dc4c53"
+  },
+  "Name": "محمد عبد‌اللهی علی‌بیک",
+  "eMail": "abdollahi [at] yazd.ac.ir",
+  "AOE": "بخش شیمی آلی",
+  "Department": "دانشکده شیمی",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452b20c037fa345dc4c54"
+  },
+  "Name": "محمد مظلوم",
+  "eMail": "mazloum [at] yazd.ac.ir",
+  "AOE": "بخش شیمی تجزیه",
+  "Department": "دانشکده شیمی",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452b20c037fa345dc4c55"
+  },
+  "Name": "بی‌بی فاطمه میرجلیلی",
+  "eMail": "fmirjalili [at] yazd.ac.ir",
+  "AOE": "بخش شیمی آلی",
+  "Department": "دانشکده شیمی",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452b20c037fa345dc4c56"
+  },
+  "Name": "رسول وفازاده",
+  "eMail": "rvafazadeh [at] yazd.ac.ir",
+  "AOE": "بخش شیمی معدنی",
+  "Department": "دانشکده شیمی",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452b20c037fa345dc4c57"
+  },
+  "Name": "محمد‌علی کریمی زارچی",
+  "eMail": "makarimi [at] yazd.ac.ir",
+  "AOE": "بخش شیمی آلی",
+  "Department": "دانشکده شیمی",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452b20c037fa345dc4c58"
+  },
+  "Name": "حسین محمدی‌منش",
+  "eMail": "mohammadimanesh [at] yazd.ac.ir",
+  "AOE": "بخش شیمی فیزیک",
+  "Department": "دانشکده شیمی",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452b20c037fa345dc4c59"
+  },
+  "Name": "منصور نمازیان",
+  "eMail": "namazian [at] yazd.ac.ir",
+  "AOE": "بخش شیمی فیزیک",
+  "Department": "دانشکده شیمی",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452b20c037fa345dc4c5a"
+  },
+  "Name": "محمد‌رضا نوربالا",
+  "eMail": "noorbala [at] yazd.ac.ir",
+  "AOE": "بخش شیمی فیزیک",
+  "Department": "دانشکده شیمی",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452b20c037fa345dc4c5b"
+  },
+  "Name": "محمد کمالوند",
+  "eMail": "kamalvand [at] yazd.ac.ir",
+  "AOE": "بخش شیمی فیزیک",
+  "Department": "دانشکده شیمی",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452b20c037fa345dc4c5c"
+  },
+  "Name": "ربابه حاجیان",
+  "eMail": "rhajian [at] yazd.ac.ir",
+  "AOE": "بخش شیمی معدنی",
+  "Department": "دانشکده شیمی",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452b20c037fa345dc4c5d"
+  },
+  "Name": "احمد‌علی دهقانی فیروزآبادی",
+  "eMail": "aadehghani [at] yazd.ac.ir",
+  "AOE": "بخش شیمی معدنی",
+  "Department": "دانشکده شیمی",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452b20c037fa345dc4c5e"
+  },
+  "Name": "علیرضا گرجی",
+  "eMail": "agorji [at] yazd.ac.ir",
+  "AOE": "بخش شیمی معدنی",
+  "Department": "دانشکده شیمی",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452b40c037fa345dc4c5f"
+  },
+  "Name": "محمد فاتحی مرجی",
+  "eMail": "mfatehi [at] yazd.ac.ir",
+  "AOE": "بخش استخراج",
+  "Department": "دانشکده مهندسی معدن و متالورژی",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452b40c037fa345dc4c60"
+  },
+  "Name": "عبدالحمید انصاری",
+  "eMail": "h.ansari [at] yazd.ac.ir",
+  "AOE": "بخش اکتشاف",
+  "Department": "دانشکده مهندسی معدن و متالورژی",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452b40c037fa345dc4c61"
+  },
+  "Name": "سعید حسنی",
+  "eMail": "hasani [at] yazd.ac.ir",
+  "AOE": "بخش متالورژی صنعتی",
+  "Department": "دانشکده مهندسی معدن و متالورژی",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452b40c037fa345dc4c62"
+  },
+  "Name": "امین حسین‌مرشدی",
+  "eMail": "morshedy [at] yazd.ac.ir",
+  "AOE": "بخش اکتشاف",
+  "Department": "دانشکده مهندسی معدن و متالورژی",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452b40c037fa345dc4c63"
+  },
+  "Name": "رضا دهقان",
+  "eMail": "rdehghans [at] yazd.ac.ir",
+  "AOE": "بخش استخراج",
+  "Department": "دانشکده مهندسی معدن و متالورژی",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452b40c037fa345dc4c64"
+  },
+  "Name": "علی دهقانی",
+  "eMail": "a.dehghani [at] yazd.ac.ir",
+  "AOE": "بخش استخراج",
+  "Department": "دانشکده مهندسی معدن و متالورژی",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452b40c037fa345dc4c65"
+  },
+  "Name": "امیر سیف‌الدینی",
+  "eMail": "seifoddini [at] yazd.ac.ir",
+  "AOE": "بخش متالورژی صنعتی",
+  "Department": "دانشکده مهندسی معدن و متالورژی",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452b40c037fa345dc4c66"
+  },
+  "Name": "جواد غلام‌نژاد",
+  "eMail": "j.gholamnejad [at] yazd.ac.ir",
+  "AOE": "بخش استخراج",
+  "Department": "دانشکده مهندسی معدن و متالورژی",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452b40c037fa345dc4c67"
+  },
+  "Name": "صادق قاسمی بنادکوکی",
+  "eMail": "sghasemi [at] yazd.ac.ir",
+  "AOE": "بخش متالورژی صنعتی",
+  "Department": "دانشکده مهندسی معدن و متالورژی",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452b40c037fa345dc4c68"
+  },
+  "Name": "احمد قربانی",
+  "eMail": "aghorbani [at] yazd.ac.ir",
+  "AOE": "بخش اکتشاف",
+  "Department": "دانشکده مهندسی معدن و متالورژی",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452b40c037fa345dc4c69"
+  },
+  "Name": "سید حسین مجتهد‌زاده",
+  "eMail": "hmojtahed [at] yazd.ac.ir",
+  "AOE": "بخش اکتشاف",
+  "Department": "دانشکده مهندسی معدن و متالورژی",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452b40c037fa345dc4c6a"
+  },
+  "Name": "فرهاد محمد‌تراب",
+  "eMail": "fmtorab [at] yazd.ac.ir",
+  "AOE": "بخش اکتشاف",
+  "Department": "دانشکده مهندسی معدن و متالورژی",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452b40c037fa345dc4c6b"
+  },
+  "Name": "علیرضا مشرقی",
+  "eMail": "amashreghi [at] yazd.ac.ir",
+  "AOE": "بخش متالورژی صنعتی",
+  "Department": "دانشکده مهندسی معدن و متالورژی",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452b40c037fa345dc4c6c"
+  },
+  "Name": "مسعود مصلایی‌پور یزدی",
+  "eMail": "mosal [at] yazd.ac.ir",
+  "AOE": "بخش متالورژی صنعتی",
+  "Department": "دانشکده مهندسی معدن و متالورژی",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452b40c037fa345dc4c6d"
+  },
+  "Name": "مهدی نجفی",
+  "eMail": "mehdinajafi [at] yazd.ac.ir",
+  "AOE": "بخش استخراج",
+  "Department": "دانشکده مهندسی معدن و متالورژی",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452b40c037fa345dc4c6e"
+  },
+  "Name": "مهدی کلانتر",
+  "eMail": "mkalantar [at] yazd.ac.ir",
+  "AOE": "بخش متالورژی صنعتی",
+  "Department": "دانشکده مهندسی معدن و متالورژی",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452b40c037fa345dc4c6f"
+  },
+  "Name": "امیرحسین کوهساری",
+  "eMail": "kohsary [at] yazd.ac.ir",
+  "AOE": "بخش اکتشاف",
+  "Department": "دانشکده مهندسی معدن و متالورژی",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452b40c037fa345dc4c70"
+  },
+  "Name": "علیرضا یاراحمدی بافقی",
+  "eMail": "ayarahmadi [at] yazd.ac.ir",
+  "AOE": "بخش استخراج",
+  "Department": "دانشکده مهندسی معدن و متالورژی",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452b40c037fa345dc4c71"
+  },
+  "Name": "میلاد بهامیریان",
+  "eMail": "m.bahamirian [at] yazd.ac.ir",
+  "AOE": "بخش متالورژی صنعتی",
+  "Department": "دانشکده مهندسی معدن و متالورژی",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452b40c037fa345dc4c72"
+  },
+  "Name": "مهدی پور‌قاسمی ساغند",
+  "eMail": "mpourghasemi [at] yazd.ac.ir",
+  "AOE": "بخش استخراج",
+  "Department": "دانشکده مهندسی معدن و متالورژی",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452b40c037fa345dc4c73"
+  },
+  "Name": "احسان حسینی",
+  "eMail": "ehosseiny [at] yazd.ac.ir",
+  "AOE": "بخش اکتشاف",
+  "Department": "دانشکده مهندسی معدن و متالورژی",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452b40c037fa345dc4c74"
+  },
+  "Name": "علی دباغ",
+  "eMail": "dabagh [at] yazd.ac.ir",
+  "AOE": "بخش استخراج",
+  "Department": "دانشکده مهندسی معدن و متالورژی",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452b40c037fa345dc4c75"
+  },
+  "Name": "محمدرضا صمدزاده یزدی",
+  "eMail": "samadzadehyazdi [at] yazd.ac.ir",
+  "AOE": "بخش استخراج",
+  "Department": "دانشکده مهندسی معدن و متالورژی",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452b40c037fa345dc4c76"
+  },
+  "Name": "خداکرم غریبی",
+  "eMail": "khgharibi [at] yazd.ac.ir",
+  "AOE": "بخش استخراج",
+  "Department": "دانشکده مهندسی معدن و متالورژی",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452b40c037fa345dc4c77"
+  },
+  "Name": "حسینعلی قاری",
+  "eMail": "hghari [at] yazd.ac.ir",
+  "AOE": "بخش اکتشاف",
+  "Department": "دانشکده مهندسی معدن و متالورژی",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452b60c037fa345dc4c78"
+  },
+  "Name": "مسعود مشرفی‌فر",
+  "eMail": "moshrefifar [at] yazd.ac.ir",
+  "AOE": "بخش متالورژی صنعتی",
+  "Department": "دانشکده مهندسی معدن و متالورژی",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452b60c037fa345dc4c79"
+  },
+  "Name": "یوسف میرزائیان لردکيوان",
+  "eMail": "mirzaeian [at] yazd.ac.ir",
+  "AOE": "بخش استخراج",
+  "Department": "دانشکده مهندسی معدن و متالورژی",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452b60c037fa345dc4c7a"
+  },
+  "Name": "حجت نادری",
+  "eMail": "naderi [at] yazd.ac.ir",
+  "AOE": "بخش استخراج",
+  "Department": "دانشکده مهندسی معدن و متالورژی",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452b60c037fa345dc4c7b"
+  },
+  "Name": "محسن نوری خضرآباد",
+  "eMail": "m.nouri [at] yazd.ac.ir",
+  "AOE": "بخش متالورژی صنعتی",
+  "Department": "دانشکده مهندسی معدن و متالورژی",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452b60c037fa345dc4c7c"
+  },
+  "Name": "کاظم رضاییان",
+  "eMail": "k_rezaeian [at] yazd.ac.ir",
+  "AOE": null,
+  "Department": "دانشکده مهندسی معدن و متالورژی",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452b80c037fa345dc4c7d"
+  },
+  "Name": "محمد‌علی ایرانمنش",
+  "eMail": "iranmanesh [at] yazd.ac.ir",
+  "AOE": "بخش ریاضی محض",
+  "Department": "دانشکده علوم ریاضی",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452b80c037fa345dc4c7e"
+  },
+  "Name": "قاسم برید لقمانی",
+  "eMail": "loghmani [at] yazd.ac.ir",
+  "AOE": "بخش ریاضی کاربردی",
+  "Department": "دانشکده علوم ریاضی",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452b80c037fa345dc4c7f"
+  },
+  "Name": "حمزه ترابی",
+  "eMail": "htorabi [at] yazd.ac.ir",
+  "AOE": "بخش آمار",
+  "Department": "دانشکده علوم ریاضی",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452b80c037fa345dc4c80"
+  },
+  "Name": "بیژن دواز",
+  "eMail": "davvaz [at] yazd.ac.ir",
+  "AOE": "بخش ریاضی محض",
+  "Department": "دانشکده علوم ریاضی",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452b80c037fa345dc4c81"
+  },
+  "Name": "سعید علیخانی",
+  "eMail": "alikhani [at] yazd.ac.ir",
+  "AOE": "بخش ریاضی محض",
+  "Department": "دانشکده علوم ریاضی",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452b80c037fa345dc4c82"
+  },
+  "Name": "فرید‌محمد مالک قائینی",
+  "eMail": "maalek [at] yazd.ac.ir",
+  "AOE": "بخش ریاضی کاربردی",
+  "Department": "دانشکده علوم ریاضی",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452b80c037fa345dc4c83"
+  },
+  "Name": "عیسی محمودی",
+  "eMail": "emahmoudi [at] yazd.ac.ir",
+  "AOE": "بخش آمار",
+  "Department": "دانشکده علوم ریاضی",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452b80c037fa345dc4c84"
+  },
+  "Name": "سید محمد‌صادق مدرس مصدق",
+  "eMail": "smodarres [at] yazd.ac.ir",
+  "AOE": "بخش ریاضی محض",
+  "Department": "دانشکده علوم ریاضی",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452b80c037fa345dc4c85"
+  },
+  "Name": "حمید مظاهری تهرانی",
+  "eMail": "hmazaheri [at] yazd.ac.ir",
+  "AOE": "بخش ریاضی محض",
+  "Department": "دانشکده علوم ریاضی",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452b80c037fa345dc4c86"
+  },
+  "Name": "سید مهدی کرباسی",
+  "eMail": "smkarbassi [at] yazd.ac.ir",
+  "AOE": "بخش ریاضی کاربردی",
+  "Department": "دانشکده علوم ریاضی",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452b80c037fa345dc4c87"
+  },
+  "Name": "سید محمد انوریه",
+  "eMail": "anvariyeh [at] yazd.ac.ir",
+  "AOE": "بخش ریاضی محض",
+  "Department": "دانشکده علوم ریاضی",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452b80c037fa345dc4c88"
+  },
+  "Name": "علی‌اکبر جعفری",
+  "eMail": "aajafari [at] yazd.ac.ir",
+  "AOE": "بخش آمار",
+  "Department": "دانشکده علوم ریاضی",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452b80c037fa345dc4c89"
+  },
+  "Name": "علی دلاور خلفی",
+  "eMail": "delavarkh [at] yazd.ac.ir",
+  "AOE": "بخش ریاضی کاربردی",
+  "Department": "دانشکده علوم ریاضی",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452b80c037fa345dc4c8a"
+  },
+  "Name": "علی دولتی",
+  "eMail": "adolati [at] yazd.ac.ir",
+  "AOE": "بخش آمار",
+  "Department": "دانشکده علوم ریاضی",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452b80c037fa345dc4c8b"
+  },
+  "Name": "حجت‌الله ذاکرزاده فروشانی",
+  "eMail": "hzaker [at] yazd.ac.ir",
+  "AOE": "بخش آمار",
+  "Department": "دانشکده علوم ریاضی",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452b80c037fa345dc4c8c"
+  },
+  "Name": "رسول روزگار",
+  "eMail": "rroozegar [at] yazd.ac.ir",
+  "AOE": "بخش آمار",
+  "Department": "دانشکده علوم ریاضی",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452b80c037fa345dc4c8d"
+  },
+  "Name": "سید ابوالفضل شاهزاده فاضلی",
+  "eMail": "fazeli [at] yazd.ac.ir",
+  "AOE": "بخش علوم کامپیوتر",
+  "Department": "دانشکده علوم ریاضی",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452b80c037fa345dc4c8e"
+  },
+  "Name": "مهدی فاتحی‌نیا",
+  "eMail": "fatehiniam [at] yazd.ac.ir",
+  "AOE": "بخش ریاضی محض",
+  "Department": "دانشکده علوم ریاضی",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452b80c037fa345dc4c8f"
+  },
+  "Name": "محمد فرشی",
+  "eMail": "mfarshi [at] yazd.ac.ir",
+  "AOE": "بخش علوم کامپیوتر",
+  "Department": "دانشکده علوم ریاضی",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452b80c037fa345dc4c90"
+  },
+  "Name": "سید محمد مشتاقیون",
+  "eMail": "moshtagh [at] yazd.ac.ir",
+  "AOE": "بخش ریاضی محض",
+  "Department": "دانشکده علوم ریاضی",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452b80c037fa345dc4c91"
+  },
+  "Name": "سپهر ابراهیمی مود",
+  "eMail": "s.ebrahimi [at] yazd.ac.ir",
+  "AOE": "بخش علوم کامپیوتر",
+  "Department": "دانشکده علوم ریاضی",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452b80c037fa345dc4c92"
+  },
+  "Name": "محمد‌رضا احمدی زند",
+  "eMail": "mahmadi [at] yazd.ac.ir",
+  "AOE": "بخش ریاضی محض",
+  "Department": "دانشکده علوم ریاضی",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452b80c037fa345dc4c93"
+  },
+  "Name": "محمد‌حسین اکرمی ابرقویی",
+  "eMail": "akrami [at] yazd.ac.ir",
+  "AOE": "بخش ریاضی کاربردی",
+  "Department": "دانشکده علوم ریاضی",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452b80c037fa345dc4c94"
+  },
+  "Name": "نرگس بیدآبادی",
+  "eMail": "n_bidabadi [at] yazd.ac.ir",
+  "AOE": "بخش ریاضی کاربردی",
+  "Department": "دانشکده علوم ریاضی",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452b80c037fa345dc4c95"
+  },
+  "Name": "محمد حیدری",
+  "eMail": "m.heydari [at] yazd.ac.ir",
+  "AOE": "بخش ریاضی کاربردی",
+  "Department": "دانشکده علوم ریاضی",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452ba0c037fa345dc4c96"
+  },
+  "Name": "حسین خورشیدی",
+  "eMail": "khorshidi [at] yazd.ac.ir",
+  "AOE": "بخش ریاضی محض",
+  "Department": "دانشکده علوم ریاضی",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452ba0c037fa345dc4c97"
+  },
+  "Name": "علی دست برآورده",
+  "eMail": "dastbaravarde [at] yazd.ac.ir",
+  "AOE": "بخش آمار",
+  "Department": "دانشکده علوم ریاضی",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452ba0c037fa345dc4c98"
+  },
+  "Name": "جمال زارع‌پور احمدآبادی",
+  "eMail": "zarepourjamal [at] yazd.ac.ir",
+  "AOE": "بخش علوم کامپیوتر",
+  "Department": "دانشکده علوم ریاضی",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452ba0c037fa345dc4c99"
+  },
+  "Name": "محمدصادق زمانی",
+  "eMail": "zamani [at] yazd.ac.ir",
+  "AOE": "بخش آمار",
+  "Department": "دانشکده علوم ریاضی",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452ba0c037fa345dc4c9a"
+  },
+  "Name": "یونس سهرابی",
+  "eMail": "ysohrabi [at] yazd.ac.ir",
+  "AOE": null,
+  "Department": "دانشکده علوم ریاضی",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452ba0c037fa345dc4c9b"
+  },
+  "Name": "الهام عباسی هرفته",
+  "eMail": "e.abbasi [at] yazd.ac.ir",
+  "AOE": "بخش علوم کامپیوتر",
+  "Department": "دانشکده علوم ریاضی",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452ba0c037fa345dc4c9c"
+  },
+  "Name": "منصور قدیری هراتی",
+  "eMail": "mghadiri [at] yazd.ac.ir",
+  "AOE": "بخش ریاضی محض",
+  "Department": "دانشکده علوم ریاضی",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452ba0c037fa345dc4c9d"
+  },
+  "Name": "سید محسن میرحسینی",
+  "eMail": "mmirhoseini [at] yazd.ac.ir",
+  "AOE": "بخش آمار",
+  "Department": "دانشکده علوم ریاضی",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452ba0c037fa345dc4c9e"
+  },
+  "Name": "حمید‌رضا نواب‌پور",
+  "eMail": "hnavabpour [at] yazd.ac.ir",
+  "AOE": "بخش ریاضی کاربردی",
+  "Department": "دانشکده علوم ریاضی",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452ba0c037fa345dc4c9f"
+  },
+  "Name": "مهدیه هاشمی‌نژاد",
+  "eMail": "hasheminezhad [at] yazd.ac.ir",
+  "AOE": "بخش علوم کامپیوتر",
+  "Department": "دانشکده علوم ریاضی",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452bc0c037fa345dc4ca0"
+  },
+  "Name": "حمیدرضا ابوطالبی",
+  "eMail": "habutalebi [at] yazd.ac.ir",
+  "AOE": "بخش مخابرات",
+  "Department": "دانشکده مهندسی برق",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452bc0c037fa345dc4ca1"
+  },
+  "Name": "محمد‌رضا عارف",
+  "eMail": "aref [at] yazd.ac.ir",
+  "AOE": "بخش مخابرات",
+  "Department": "دانشکده مهندسی برق",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452bc0c037fa345dc4ca2"
+  },
+  "Name": "قاسم میرجلیلی",
+  "eMail": "mirjalily [at] yazd.ac.ir",
+  "AOE": "بخش مخابرات",
+  "Department": "دانشکده مهندسی برق",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452bc0c037fa345dc4ca3"
+  },
+  "Name": "مسعودرضا آقابزرگی",
+  "eMail": "aghabozorgi [at] yazd.ac.ir",
+  "AOE": "بخش مخابرات",
+  "Department": "دانشکده مهندسی برق",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452bc0c037fa345dc4ca4"
+  },
+  "Name": "وحید ابوطالبی",
+  "eMail": "abootalebi [at] yazd.ac.ir",
+  "AOE": "بخش مخابرات",
+  "Department": "دانشکده مهندسی برق",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452bc0c037fa345dc4ca5"
+  },
+  "Name": "جمشید ابویی",
+  "eMail": "abouei [at] yazd.ac.ir",
+  "AOE": "بخش مخابرات",
+  "Department": "دانشکده مهندسی برق",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452bc0c037fa345dc4ca6"
+  },
+  "Name": "سید محمدتقی المدرسی",
+  "eMail": "smta [at] yazd.ac.ir",
+  "AOE": "بخش مخابرات",
+  "Department": "دانشکده مهندسی برق",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452bc0c037fa345dc4ca7"
+  },
+  "Name": "علی‌اکبر تدین تفت",
+  "eMail": "tadaion [at] yazd.ac.ir",
+  "AOE": "بخش مخابرات",
+  "Department": "دانشکده مهندسی برق",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452bc0c037fa345dc4ca8"
+  },
+  "Name": "عباسعلی حیدری",
+  "eMail": "aheidari [at] yazd.ac.ir",
+  "AOE": "بخش مخابرات",
+  "Department": "دانشکده مهندسی برق",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452bc0c037fa345dc4ca9"
+  },
+  "Name": "علی‌اکبر دامکی علی‌آباد",
+  "eMail": "alidamaki [at] yazd.ac.ir",
+  "AOE": "بخش قدرت",
+  "Department": "دانشکده مهندسی برق",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452bc0c037fa345dc4caa"
+  },
+  "Name": "زلفا زینل‌پور یزدی",
+  "eMail": "zeinalpour [at] yazd.ac.ir",
+  "AOE": "بخش مخابرات",
+  "Department": "دانشکده مهندسی برق",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452bc0c037fa345dc4cab"
+  },
+  "Name": "رضا سعادت",
+  "eMail": "rsaadat [at] yazd.ac.ir",
+  "AOE": "بخش مخابرات",
+  "Department": "دانشکده مهندسی برق",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452bc0c037fa345dc4cac"
+  },
+  "Name": "حمید سعیدی سورک",
+  "eMail": "saeedi [at] yazd.ac.ir",
+  "AOE": "بخش مخابرات",
+  "Department": "دانشکده مهندسی برق",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452bc0c037fa345dc4cad"
+  },
+  "Name": "محمد‌تقی صادقی",
+  "eMail": "m.sadeghi [at] yazd.ac.ir",
+  "AOE": "بخش مخابرات",
+  "Department": "دانشکده مهندسی برق",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452bc0c037fa345dc4cae"
+  },
+  "Name": "علیرضا صدیقی انارکی",
+  "eMail": "sedighi [at] yazd.ac.ir",
+  "AOE": "بخش قدرت",
+  "Department": "دانشکده مهندسی برق",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452bc0c037fa345dc4caf"
+  },
+  "Name": "علی غفور‌زاده یزدی",
+  "eMail": "aghafoorzadeh [at] yazd.ac.ir",
+  "AOE": "بخش مخابرات",
+  "Department": "دانشکده مهندسی برق",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452bc0c037fa345dc4cb0"
+  },
+  "Name": "حسین قانعی یخدان",
+  "eMail": "hghaneiy [at] yazd.ac.ir",
+  "AOE": "بخش مخابرات",
+  "Department": "دانشکده مهندسی برق",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452bc0c037fa345dc4cb1"
+  },
+  "Name": "مسعود موحدی",
+  "eMail": "movahhedi [at] yazd.ac.ir",
+  "AOE": "بخش مخابرات",
+  "Department": "دانشکده مهندسی برق",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452bc0c037fa345dc4cb2"
+  },
+  "Name": "احمد میرزایی",
+  "eMail": "mirzaei [at] yazd.ac.ir",
+  "AOE": "بخش قدرت",
+  "Department": "دانشکده مهندسی برق",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452bc0c037fa345dc4cb3"
+  },
+  "Name": "منصور نخکش",
+  "eMail": "nakhkash [at] yazd.ac.ir",
+  "AOE": "بخش مخابرات",
+  "Department": "دانشکده مهندسی برق",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452bc0c037fa345dc4cb4"
+  },
+  "Name": "شهرام آقایی",
+  "eMail": "aghaei [at] yazd.ac.ir",
+  "AOE": "بخش الکترونیک و کنترل",
+  "Department": "دانشکده مهندسی برق",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452bc0c037fa345dc4cb5"
+  },
+  "Name": "علی ابوئی",
+  "eMail": "aliabooee [at] yazd.ac.ir",
+  "AOE": "بخش الکترونیک و کنترل",
+  "Department": "دانشکده مهندسی برق",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452bc0c037fa345dc4cb6"
+  },
+  "Name": "داود ابوترابی زارچی",
+  "eMail": "d.abootorabi [at] yazd.ac.ir",
+  "AOE": "بخش قدرت",
+  "Department": "دانشکده مهندسی برق",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452bc0c037fa345dc4cb7"
+  },
+  "Name": "حمیدرضا ارجمندی",
+  "eMail": "arjmandi [at] yazd.ac.ir",
+  "AOE": "بخش مخابرات",
+  "Department": "دانشکده مهندسی برق",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452bc0c037fa345dc4cb8"
+  },
+  "Name": "حمیدرضا تودجی",
+  "eMail": "toodeji [at] yazd.ac.ir",
+  "AOE": "بخش قدرت",
+  "Department": "دانشکده مهندسی برق",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452be0c037fa345dc4cb9"
+  },
+  "Name": "فاطمه جهانبانی اردکانی",
+  "eMail": "jahanbani [at] yazd.ac.ir",
+  "AOE": "بخش قدرت",
+  "Department": "دانشکده مهندسی برق",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452be0c037fa345dc4cba"
+  },
+  "Name": "محمد ذوفقاری",
+  "eMail": "zoofaghari [at] yazd.ac.ir",
+  "AOE": "بخش مخابرات",
+  "Department": "دانشکده مهندسی برق",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452be0c037fa345dc4cbb"
+  },
+  "Name": "مصطفی شاه‌نظری",
+  "eMail": "shahnazari [at] yazd.ac.ir",
+  "AOE": "بخش قدرت",
+  "Department": "دانشکده مهندسی برق",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452be0c037fa345dc4cbc"
+  },
+  "Name": "هادی صفدرخانی",
+  "eMail": "safdarkhani [at] yazd.ac.ir",
+  "AOE": "بخش الکترونیک و کنترل",
+  "Department": "دانشکده مهندسی برق",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452be0c037fa345dc4cbd"
+  },
+  "Name": "محمدرضا مزیدی",
+  "eMail": "mrmazidi [at] yazd.ac.ir",
+  "AOE": "بخش قدرت",
+  "Department": "دانشکده مهندسی برق",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452be0c037fa345dc4cbe"
+  },
+  "Name": "علی مفتخر‌زاده",
+  "eMail": "moftakharzadeh [at] yazd.ac.ir",
+  "AOE": "بخش الکترونیک و کنترل",
+  "Department": "دانشکده مهندسی برق",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452be0c037fa345dc4cbf"
+  },
+  "Name": "علی میروکیلی",
+  "eMail": "ali.mirvakili [at] yazd.ac.ir",
+  "AOE": "بخش الکترونیک و کنترل",
+  "Department": "دانشکده مهندسی برق",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452be0c037fa345dc4cc0"
+  },
+  "Name": "یاسر کریمی",
+  "eMail": "karimiyaser [at] yazd.ac.ir",
+  "AOE": "بخش قدرت",
+  "Department": "دانشکده مهندسی برق",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452be0c037fa345dc4cc1"
+  },
+  "Name": "سیدعلی صالحی منشادی",
+  "eMail": "asalehee [at] yazd.ac.ir",
+  "AOE": "بخش قدرت و الکترونیک",
+  "Department": "دانشکده مهندسی برق",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452c00c037fa345dc4cc2"
+  },
+  "Name": "ولی درهمی",
+  "eMail": "vderhami [at] yazd.ac.ir",
+  "AOE": "بخش هوش مصنوعی",
+  "Department": "دانشکده مهندسی کامپیوتر",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452c00c037fa345dc4cc3"
+  },
+  "Name": "فضل‌الله ادیب‌نیا",
+  "eMail": "fadib [at] yazd.ac.ir",
+  "AOE": "بخش فناوری اطلاعات",
+  "Department": "دانشکده مهندسی کامپیوتر",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452c00c037fa345dc4cc4"
+  },
+  "Name": "علیمحمد زارع بیدکی",
+  "eMail": "alizareh [at] yazd.ac.ir",
+  "AOE": "بخش مهندسی نرم‌افزار",
+  "Department": "دانشکده مهندسی کامپیوتر",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452c00c037fa345dc4cc5"
+  },
+  "Name": "مهدی‌آقا صرام",
+  "eMail": "mehdi.sarram [at] yazd.ac.ir",
+  "AOE": "بخش فناوری اطلاعات",
+  "Department": "دانشکده مهندسی کامپیوتر",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452c00c037fa345dc4cc6"
+  },
+  "Name": "محمد قاسم‌زاده",
+  "eMail": "m.ghasemzadeh [at] yazd.ac.ir",
+  "AOE": "بخش هوش مصنوعی",
+  "Department": "دانشکده مهندسی کامپیوتر",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452c00c037fa345dc4cc7"
+  },
+  "Name": "علی‌محمد لطیف",
+  "eMail": "alatif [at] yazd.ac.ir",
+  "AOE": "بخش هوش مصنوعی",
+  "Department": "دانشکده مهندسی کامپیوتر",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452c00c037fa345dc4cc8"
+  },
+  "Name": "محمد‌رضا پژوهان",
+  "eMail": "pajoohan [at] yazd.ac.ir",
+  "AOE": "بخش مهندسی نرم‌افزار",
+  "Department": "دانشکده مهندسی کامپیوتر",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452c00c037fa345dc4cc9"
+  },
+  "Name": "امیر جهانگرد رفسنجانی",
+  "eMail": "jahangard [at] yazd.ac.ir",
+  "AOE": "بخش مهندسی نرم‌افزار",
+  "Department": "دانشکده مهندسی کامپیوتر",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452c00c037fa345dc4cca"
+  },
+  "Name": "مهدی رضاییان",
+  "eMail": "mrezaeian [at] yazd.ac.ir",
+  "AOE": "بخش هوش مصنوعی",
+  "Department": "دانشکده مهندسی کامپیوتر",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452c00c037fa345dc4ccb"
+  },
+  "Name": "وحید رنجبر بافقی",
+  "eMail": "vranjbar [at] yazd.ac.ir",
+  "AOE": "بخش فناوری اطلاعات",
+  "Department": "دانشکده مهندسی کامپیوتر",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452c00c037fa345dc4ccc"
+  },
+  "Name": "محمد‌علی زارع چاهوکی",
+  "eMail": "chahooki [at] yazd.ac.ir",
+  "AOE": "بخش مهندسی نرم‌افزار",
+  "Department": "دانشکده مهندسی کامپیوتر",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452c00c037fa345dc4ccd"
+  },
+  "Name": "حسن سماورچی",
+  "eMail": "hsamavarchi [at] yazd.ac.ir",
+  "AOE": null,
+  "Department": "دانشکده مهندسی کامپیوتر",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452c00c037fa345dc4cce"
+  },
+  "Name": "سید علیرضا صدرالسادات",
+  "eMail": "alireza.sadr [at] yazd.ac.ir",
+  "AOE": "بخش هوش مصنوعی",
+  "Department": "دانشکده مهندسی کامپیوتر",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452c00c037fa345dc4ccf"
+  },
+  "Name": "محمد طهماسبی",
+  "eMail": "tahmasebi [at] yazd.ac.ir",
+  "AOE": "بخش فناوری اطلاعات",
+  "Department": "دانشکده مهندسی کامپیوتر",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452c00c037fa345dc4cd0"
+  },
+  "Name": "سجاد ظریف‌زاده",
+  "eMail": "szarifzadeh [at] yazd.ac.ir",
+  "AOE": "بخش مهندسی نرم‌افزار",
+  "Department": "دانشکده مهندسی کامپیوتر",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452c00c037fa345dc4cd1"
+  },
+  "Name": "سید مجتبی متین‌خواه",
+  "eMail": "matinkhah [at] yazd.ac.ir",
+  "AOE": null,
+  "Department": "دانشکده مهندسی کامپیوتر",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452c00c037fa345dc4cd2"
+  },
+  "Name": "سید اکبر مصطفوی",
+  "eMail": "a.mostafavi [at] yazd.ac.ir",
+  "AOE": "بخش فناوری اطلاعات",
+  "Department": "دانشکده مهندسی کامپیوتر",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452c00c037fa345dc4cd3"
+  },
+  "Name": "کیارش میزانیان",
+  "eMail": "k.mizanian [at] yazd.ac.ir",
+  "AOE": "بخش فناوری اطلاعات",
+  "Department": "دانشکده مهندسی کامپیوتر",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452c00c037fa345dc4cd4"
+  },
+  "Name": "مهدی یزدیان دهکردی",
+  "eMail": "yazdian [at] yazd.ac.ir",
+  "AOE": "بخش هوش مصنوعی",
+  "Department": "دانشکده مهندسی کامپیوتر",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452c00c037fa345dc4cd5"
+  },
+  "Name": "مهران شتابی",
+  "eMail": "mshetabi [at] yazd.ac.ir",
+  "AOE": "بخش فناوری اطلاعات",
+  "Department": "دانشکده مهندسی کامپیوتر",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452c00c037fa345dc4cd6"
+  },
+  "Name": "سید محمدعلی نکویی",
+  "eMail": "nekooei [at] yazd.ac.ir",
+  "AOE": "بخش فناوری اطلاعات",
+  "Department": "دانشکده مهندسی کامپیوتر",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452c00c037fa345dc4cd7"
+  },
+  "Name": "مجید نیک‌زر",
+  "eMail": "mnikzar [at] yazd.ac.ir",
+  "AOE": "بخش هوش مصنوعی",
+  "Department": "دانشکده مهندسی کامپیوتر",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452c30c037fa345dc4cd8"
+  },
+  "Name": "سید محمد بزرگ",
+  "eMail": "bozorg [at] yazd.ac.ir",
+  "AOE": "بخش دینامیک و کنترل",
+  "Department": "دانشکده مهندسی مکانیک",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452c30c037fa345dc4cd9"
+  },
+  "Name": "علی‌اکبر دهقان",
+  "eMail": "adehghan [at] yazd.ac.ir",
+  "AOE": "بخش تبدیل انرژی",
+  "Department": "دانشکده مهندسی مکانیک",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452c30c037fa345dc4cda"
+  },
+  "Name": "منصور رفیعیان",
+  "eMail": "rafeeyan [at] yazd.ac.ir",
+  "AOE": "بخش دینامیک و کنترل",
+  "Department": "دانشکده مهندسی مکانیک",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452c30c037fa345dc4cdb"
+  },
+  "Name": "محمد سفید",
+  "eMail": "mhsefid [at] yazd.ac.ir",
+  "AOE": "بخش تبدیل انرژی",
+  "Department": "دانشکده مهندسی مکانیک",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452c30c037fa345dc4cdc"
+  },
+  "Name": "سعید ابراهیمی",
+  "eMail": "ebrahimi [at] yazd.ac.ir",
+  "AOE": "بخش دینامیک و کنترل",
+  "Department": "دانشکده مهندسی مکانیک",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452c30c037fa345dc4cdd"
+  },
+  "Name": "محمد‌مهدی جلیلی بهابادی",
+  "eMail": "jalili [at] yazd.ac.ir",
+  "AOE": "بخش دینامیک و کنترل",
+  "Department": "دانشکده مهندسی مکانیک",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452c30c037fa345dc4cde"
+  },
+  "Name": "اصغر دشتی رحمت‌آبادی",
+  "eMail": "dashti [at] yazd.ac.ir",
+  "AOE": "بخش جامدات و ساخت",
+  "Department": "دانشکده مهندسی مکانیک",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452c30c037fa345dc4cdf"
+  },
+  "Name": "علیرضا شفیعی",
+  "eMail": "arshafiei [at] yazd.ac.ir",
+  "AOE": "بخش جامدات و ساخت",
+  "Department": "دانشکده مهندسی مکانیک",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452c30c037fa345dc4ce0"
+  },
+  "Name": "شهرام طالبی",
+  "eMail": "talebi_s [at] yazd.ac.ir",
+  "AOE": "بخش تبدیل انرژی",
+  "Department": "دانشکده مهندسی مکانیک",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452c30c037fa345dc4ce1"
+  },
+  "Name": "علیرضا فتوحی فیروز‌آباد",
+  "eMail": "afotuhi [at] yazd.ac.ir",
+  "AOE": "بخش جامدات و ساخت",
+  "Department": "دانشکده مهندسی مکانیک",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452c30c037fa345dc4ce2"
+  },
+  "Name": "عباس مزیدی",
+  "eMail": "amazidi [at] yazd.ac.ir",
+  "AOE": "بخش دینامیک و کنترل",
+  "Department": "دانشکده مهندسی مکانیک",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452c30c037fa345dc4ce3"
+  },
+  "Name": "ولی کلانتر",
+  "eMail": "vkalantar [at] yazd.ac.ir",
+  "AOE": "بخش تبدیل انرژی",
+  "Department": "دانشکده مهندسی مکانیک",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452c30c037fa345dc4ce4"
+  },
+  "Name": "محمدمهدی ابوترابی زارچی",
+  "eMail": "abootorabi [at] yazd.ac.ir",
+  "AOE": "بخش جامدات و ساخت",
+  "Department": "دانشکده مهندسی مکانیک",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452c30c037fa345dc4ce5"
+  },
+  "Name": "قاسم اعظمی‌راد",
+  "eMail": "azamirad [at] yazd.ac.ir",
+  "AOE": "بخش جامدات و ساخت",
+  "Department": "دانشکده مهندسی مکانیک",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452c30c037fa345dc4ce6"
+  },
+  "Name": "قاسم امیریان",
+  "eMail": "gamirian [at] yazd.ac.ir",
+  "AOE": "بخش جامدات و ساخت",
+  "Department": "دانشکده مهندسی مکانیک",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452c30c037fa345dc4ce7"
+  },
+  "Name": "نوید پیرزای خبازی",
+  "eMail": "khabazi [at] yazd.ac.ir",
+  "AOE": "بخش تبدیل انرژی",
+  "Department": "دانشکده مهندسی مکانیک",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452c30c037fa345dc4ce8"
+  },
+  "Name": "محمد جعفری گلویک",
+  "eMail": "m.jafari [at] yazd.ac.ir",
+  "AOE": "بخش جامدات و ساخت",
+  "Department": "دانشکده مهندسی مکانیک",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452c30c037fa345dc4ce9"
+  },
+  "Name": "مهدی حیدری میبدی",
+  "eMail": "m.heydari.m [at] yazd.ac.ir",
+  "AOE": "بخش جامدات و ساخت",
+  "Department": "دانشکده مهندسی مکانیک",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452c30c037fa345dc4cea"
+  },
+  "Name": "محمود خداداد سریزدی",
+  "eMail": "khodadad [at] yazd.ac.ir",
+  "AOE": "بخش جامدات و ساخت",
+  "Department": "دانشکده مهندسی مکانیک",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452c30c037fa345dc4ceb"
+  },
+  "Name": "روح‌الله عزیزی تفتی",
+  "eMail": "azizitafti [at] yazd.ac.ir",
+  "AOE": "بخش جامدات و ساخت",
+  "Department": "دانشکده مهندسی مکانیک",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452c30c037fa345dc4cec"
+  },
+  "Name": "محمد‌رضا فاضل",
+  "eMail": "mfazel [at] yazd.ac.ir",
+  "AOE": "بخش دینامیک و کنترل",
+  "Department": "دانشکده مهندسی مکانیک",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452c30c037fa345dc4ced"
+  },
+  "Name": "احمد‌رضا فقیه خراسانی",
+  "eMail": "faghih [at] yazd.ac.ir",
+  "AOE": "بخش تبدیل انرژی",
+  "Department": "دانشکده مهندسی مکانیک",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452c30c037fa345dc4cee"
+  },
+  "Name": "محمد‌رضا نظری",
+  "eMail": "mnazari [at] yazd.ac.ir",
+  "AOE": "بخش تبدیل انرژی",
+  "Department": "دانشکده مهندسی مکانیک",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452c30c037fa345dc4cef"
+  },
+  "Name": "محمد‌هادی هنرور",
+  "eMail": "HadiHonarvar [at] yazd.ac.ir",
+  "AOE": "بخش دینامیک و کنترل",
+  "Department": "دانشکده مهندسی مکانیک",
+  "College": "دانشگاه یزد"
+},{
+  "_id": {
+    "$oid": "616452c30c037fa345dc4cf0"
+  },
+  "Name": "علیمحمد رسولیان",
+  "eMail": "rassoulian [at] yazd.ac.ir",
+  "AOE": null,
+  "Department": "دانشکده مهندسی مکانیک",
+  "College": "دانشگاه یزد"
+}]

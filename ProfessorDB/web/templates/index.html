@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html dir="rtl">
+<head>
+  <meta charset="utf-8">
+  <title>موتور جستجو اساتید</title>
+  <style>
+    body{
+      background-color: #10ac84;
+    }
+    .container{
+      width: 80vw;
+      margin-left: auto;
+      margin-right: auto;
+      background-color: rgba(255, 255, 255, 0.2);
+      border-radius: 16px;
+      padding: 2%;
+      margin-bottom: 1vw;
+    }
+    .professor {
+        font-size: 20px;
+        padding: 2%;
+        border: #fff solid 1px;
+        border-radius: 8px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <form action="" method="post">
+      نام استاد:
+      <input type="text" name="name" />
+      <br />
+      تخصص:
+      <input type="text" name="aoe" />
+      <br />
+      دانشکده:
+      <select name="department">
+        <option value="any">---</option>
+        {% for department in departments %}
+        <option value="{{department}}">{{department}}</option>
+        {% endfor %}
+      </select>
+      <br />
+      دانشگاه:
+      <select name="college">
+        <option value="any">---</option>
+        {% for college in colleges %}
+        <option value="{{college}}">{{college}}</option>
+        {% endfor %}
+      </select>
+      <br />
+
+      <button type="submit">جستجو</button>
+    </form>
+  </div>
+  <div class="container">
+      {{ professors|length }} نتیجه یافت شده
+      <br /><hr>
+      <table>
+      <tbody>
+      {% for professor in professors %}
+      <tr>
+        <td>{{ professor.Name }}</td>
+        <td>{{ '-' if not professor.AOE else professor.AOE }}</td>
+        <td>{{ professor.eMail }}</td>
+        <td>{{ professor.Department}}</td>
+        <td>{{ professor.College }}</td>
+      </tr>
+      {% endfor %}
+      </tbody>
+      </table>
+  </div>
+</body>
+</html>
